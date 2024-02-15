@@ -31,7 +31,7 @@
 #endif
 
 #undef sync
-
+#include <numeric>
 #include <cassert>
 #include "annealer_thread.h"
 #include "location_t.h"
